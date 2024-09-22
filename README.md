@@ -29,3 +29,5 @@ O algoritmo é aplicado a cada um dos subvetores e, ao terminar, o vetor encontr
 Na maioria dos casos, quando o vetor não está muito ordenado, tem a complexidade **O(nlogn)**.
 Entretanto, quando o vetor está muito ordenado, com poucos elementos para serem substituidos,
 o algoritmo apresenta uma complexidade de **O(n²)**, não sendo tão eficiente.
+
+// Cada um possui uma main(). Então se for utilizar com um header é necessário apagar.
